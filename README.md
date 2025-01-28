@@ -1,0 +1,1 @@
+# azure_static_web_app
